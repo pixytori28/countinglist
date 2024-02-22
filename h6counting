@@ -1,0 +1,8 @@
+#name:Victoria Inahuazo
+#email:victoria.inahuazo11@myhunter.cuny.edu
+#date: 02/22/24
+#the following program prints from 1-14 starting from 1 and ending at 14. the lists steps by 1.
+
+
+for count in range (0,15,1):
+    print(count)
